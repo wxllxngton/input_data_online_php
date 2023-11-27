@@ -1,0 +1,42 @@
+body {
+    height: 100vh;
+    background-color: #333;
+}
+
+.text-green {
+    color: green;
+}
+
+.text-red {
+    color: red;
+}
+
+.nav-link {
+    color: #e5dbff;
+}
+
+.jumbotron {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    color: #e5dbff;
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px; /* Adjust the margin between form rows */
+}
+
+.col-3-2 {
+    flex: 0 0 32.5%; /* Set a fixed width for each column (adjust as needed) */
+}
+
+.col-alone {
+    flex: 0 0 100%; /* Set a fixed width for each column (adjust as needed) */
+}
+
+.btn {
+    padding-top: 10px; /* Adjust the padding on top of the buttons */
+}
