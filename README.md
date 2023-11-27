@@ -17,7 +17,7 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/input_data_online_php.git
+    git clone https://github.com/wxllxngton/input_data_online_php.git
     ```
 
 2. Create a new database in phpMyAdmin, e.g., named `kca`.
